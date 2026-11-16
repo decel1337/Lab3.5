@@ -1,0 +1,8 @@
+[
+  { "LastName": "Коваленко", "FirstName": "Олег", "Course": 3, "StudentId": "КВ-001", "BirthDate": "15-07 2004" },
+  { "LastName": "Мельник", "FirstName": "Анна", "Course": 3, "StudentId": "КВ-002", "BirthDate": "01-06 2004" },
+  { "LastName": "Бондар", "FirstName": "Максим", "Course": 3, "StudentId": "КВ-003", "BirthDate": "20-12 2003" },
+  { "LastName": "Ткачук", "FirstName": "Софія", "Course": 2, "StudentId": "КВ-004", "BirthDate": "10-08 2005" },
+  { "LastName": "Шевчук", "FirstName": "Дмитро", "Course": 3, "StudentId": "КВ-005", "BirthDate": "31-08 2004" },
+  { "LastName": "Лисенко", "FirstName": "Марія", "Course": 1, "StudentId": "КВ-006", "BirthDate": "05-03 2006" }
+]
